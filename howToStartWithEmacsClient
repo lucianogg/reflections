@@ -1,0 +1,4 @@
+So this page shows it: http://unix.stackexchange.com/questions/9152/script-for-opening-a-file-in-an-already-existing-emacs-process
+
+1. Start emacs, otherwise an error should appear
+2. Follow the instructions on the web
